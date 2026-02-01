@@ -1,3 +1,5 @@
+# Created by Izabela Sulowska
+
 import pygame
 import sys
 
